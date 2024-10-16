@@ -1,3 +1,4 @@
+<p style="background-color:white;">
 <h1 align="center">Hi 👋, I'm Suyoung Yun</h1>  
 <h3 align="center">A Developer who is always curious.</h3>  
   
@@ -23,7 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=su2708&show_icons=true&locale=en" alt="su2708" /></p>  
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=su2708&" alt="su2708" /></p>
-
+</p>
 
 
 
